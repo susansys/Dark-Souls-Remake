@@ -1,6 +1,6 @@
 ## .gitignore for unity 3D projects
 
-/target
+target/
 # unity 3d Models
 *.fbx
 *.mat
