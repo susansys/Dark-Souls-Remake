@@ -1,0 +1,8 @@
+## .gitignore for unity 3D projects
+
+/target
+# unity 3d Models
+*.fbx
+*.mat
+*.png
+*.jpg
